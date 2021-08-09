@@ -4,6 +4,6 @@
 
   <img alt="home" src="github/truck.png">
 
-  new location: [Finance List](https://github.com/VictorGabrielMS/instagram_feed)
+  new location: [Instagram Feed](https://github.com/VictorGabrielMS/instagram_feed)
 
 </center>
